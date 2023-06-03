@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #35353F ;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    color: #45C398;
+    font-size: 7rem;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.dice{
+    margin-top: 50px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    color: #45C398;
+    font-family: 'Roboto Mono', monospace;
+}
+footer{
+    margin-top: 13%;
+    color: #45C398;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
